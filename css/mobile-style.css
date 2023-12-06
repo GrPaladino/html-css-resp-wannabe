@@ -6,4 +6,14 @@
     .container .col {
         width: 100%;
     }
+
+    .steps.text-center {
+        margin: 3rem 0 0 0;
+    }
+
+    .why-us {
+        padding: 3rem 0;
+        margin: 0;
+        background-color: #222222;
+    }
 }
